@@ -1,10 +1,10 @@
 body{
     background-color: bisque;
+    text-align: center;
 }
 
 header h1{
     font-size: 35px;
-    text-align: center;
     text-decoration: underline;
     color: coral;
 }
