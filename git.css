@@ -3,17 +3,20 @@ body{
 }
 
 header h1{
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
     text-decoration: underline;
+    color: coral;
 }
 
 main p{
-    font-size: 18px;
+    font-size: 28px;
     border: coral 2px solid;
+    color: crimson;
 }
 
 footer{
-    font-size: 15px;
-
+    font-size: 25px;
+    color: darkslateblue;
+    border: 3px dotted violet;
 }
