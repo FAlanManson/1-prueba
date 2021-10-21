@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+header h1{
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+main p{
+    font-size: 18px;
+    border: coral 2px solid;
+}
+
+footer{
+    font-size: 15px;
+
+}
