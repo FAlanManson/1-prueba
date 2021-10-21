@@ -7,6 +7,7 @@ header h1{
     font-size: 35px;
     text-decoration: underline;
     color: coral;
+    font-weight: bold;
 }
 
 main p{
